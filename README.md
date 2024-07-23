@@ -1,6 +1,7 @@
 # Investigating Network Activities on Linux Systems
 
 ## Introduction
+![LINUX FILE SYSTEM ANALYSIS](https://github.com/user-attachments/assets/2a03fd3e-8e24-4e90-91af-8bc3844dbbc3)
 
 Network activity analysis is a fundamental skill in cybersecurity, helping you monitor, analyze, and troubleshoot network traffic and activities. This lab will guide you through basic network investigation techniques on a Linux system, allowing you to examine network interfaces, monitor traffic, and identify potential security issues.    
 
